@@ -3,9 +3,9 @@ This project was designed to help make basic arithmetic calculation and also cal
 
 This project was built using Node.js and Express.js library backend development
 
-#to install depeendency
+# To install depeendency
 use npm install
 
 
-# to run
+# To run
 use npm start
